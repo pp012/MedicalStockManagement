@@ -4,3 +4,4 @@ I have used swing for the gui.
 In this project we can perform operations like adding stock,selling medicine(which also displays the profit earned).
 We can also search the medicine we want to from database,display our medical stock.
 We can also check for expiry which displays the stock which is expiring and also removes stock which has expired(also displays loss from stock removal).
+Added some error handling mechanisms that can occur during giving our input
