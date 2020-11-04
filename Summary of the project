@@ -1,0 +1,6 @@
+This is a project which helps us in managing medical stock.
+I have used JDBC and used SQL for database.
+I have used swing for the gui.
+In this project we can perform operations like adding stock,selling medicine(which also displays the profit earned).
+We can also search the medicine we want to from database,display our medical stock.
+We can also check for expiry which displays the stock which is expiring and also removes stock which has expired(also displays loss from stock removal).
